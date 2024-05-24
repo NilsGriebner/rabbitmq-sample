@@ -6,8 +6,7 @@ modified to work with AwsMQ.
 
 ## Run the code
 
-In order to run the code credentials and the hostname of an AwsMQ instance are needed. If you're interested
-please ping me.
+In order to run the code credentials and the hostname of an AwsMQ instance are needed.
 
 Install dependencies with
 
